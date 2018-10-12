@@ -105,3 +105,7 @@ for molecule in my_molecules:
 ```
 
 From here, hardcode the paths in your blender script and adjust as needed.
+
+源码初探：
+
+    mol data ——>json data——>blender draw
